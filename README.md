@@ -1,8 +1,8 @@
 # Marketing + AI Studio Site
 
 One-page site for a productized marketing & AI integration business serving local
-businesses (Cambridge / Kitchener–Waterloo / Guelph, ON). Plain static files — no build
-step, no dependencies: `index.html`, `styles.css`, `script.js`.
+service businesses. Plain static files — no build step, no dependencies: `index.html`,
+`styles.css`, `script.js`.
 
 **Core products on the page**
 

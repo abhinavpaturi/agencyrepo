@@ -248,8 +248,7 @@ a:focus-visible,button:focus-visible,summary:focus-visible{
 }
 .cta-inner h2{font-size:clamp(30px,4.4vw,46px);margin-bottom:16px}
 .cta-inner>p{color:rgba(250,247,241,.75);max-width:54ch;margin:0 auto 34px}
-.cta-buttons{display:flex;flex-wrap:wrap;gap:14px;justify-content:center;margin-bottom:22px}
-.cta-small{font-size:13.5px;color:rgba(250,247,241,.55)}
+.cta-buttons{display:flex;flex-wrap:wrap;gap:14px;justify-content:center}
 
 /* ---------- footer ---------- */
 .footer{background:var(--green-ink);color:var(--paper);border-top:1px solid rgba(250,247,241,.12);padding:34px 0}
