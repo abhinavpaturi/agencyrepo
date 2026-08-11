@@ -109,8 +109,6 @@ a:focus-visible,button:focus-visible,summary:focus-visible{
   content:"";width:16px;height:16px;flex:none;border-radius:50%;
   background:var(--green-tint) url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M6 12.5l4 4 8-9' fill='none' stroke='%2317694C' stroke-width='3.4' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E") center/10px no-repeat;
 }
-.hero-local{font-size:14px;color:var(--muted)}
-
 /* phone mock */
 .hero-visual{position:relative;justify-self:center;width:min(100%,400px)}
 .phone-card{
