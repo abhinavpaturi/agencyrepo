@@ -6,9 +6,9 @@ service businesses. Plain static files — no build step, no dependencies: `inde
 
 **Core products on the page**
 
-1. **Local Ads Engine** — done-for-you Meta & Google ads, including a free one-time digital
-   makeover (social profiles refresh, Google Business Profile optimization, booking system
-   setup if needed).
+1. **Local Ads Engine** — done-for-you Meta & Google ads and local SEO optimization,
+   including a free one-time digital makeover (social profiles refresh, Google Business
+   Profile optimization, booking system setup if needed).
 2. **AI Front Desk** — AI receptionist: answers calls/texts 24/7, missed-call text-back,
    books appointments into your booking system.
 
